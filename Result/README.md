@@ -11,6 +11,8 @@ From models testing, we get the following results :
 | self_38_v2  | 21/33                | -/190                   | trained on 38 classes and target size 256, 256  |
 | self_38_v3  | 29/33                | 42/190                  | trained on 38 classes and target size 150, 150  |
 | baru        | 31/33                | 40/190                  | trained on 38 classes, with additional augmentation and target size 256, 256  |
+| baru1       | 27/33                | 52/190                  | trained on 38 classes, with additional augmentation and target size 256, 256  |
+| baru2       | 30/33                | 45/190                  | trained on 38 classes, with additional augmentation and target size 256, 256  |
 
 ## Transfer Learning
 | Model Name  | Result from **test** | Result from **Testing** | Note |
