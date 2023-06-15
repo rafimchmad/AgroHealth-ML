@@ -5,7 +5,7 @@ From models created, we tested them to **test** folder and **Testing** folder. *
 From models testing, we get the following results :
 
 ## Self-Made Models
-Self-Made models were made from scratch, for example:
+Self-Made models were made using convolutional neural networks from scratch, for example:
 ```
 model = Sequential([
     Conv2D(32, (3,3), activation='relu', input_shape=(256, 256, 3)),
