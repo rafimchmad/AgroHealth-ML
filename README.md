@@ -5,7 +5,7 @@ Welcome to Machine Learning part of AgroHealth!
 | Name | ID |
 | ---- | -- |
 | Neisa Hibatillah Alif | M038DSY2558 |
-|||
+|Mochamad Rafi Athallah|M166DSX2162|
 | Dini Meriawati | M092DSY4956 |
 
 ## Technologies Used
